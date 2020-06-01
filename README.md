@@ -1,2 +1,5 @@
-# -
-没有什么描述
+#include<stdio.h>
+int main()
+{
+   printf("HELLO WORLD!");
+ }
